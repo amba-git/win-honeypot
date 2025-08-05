@@ -1,0 +1,6 @@
+{
+    "enable_http":true,
+    "http_port":80,
+    "enable_ssh": true,
+    "ssh_port": 22
+}
